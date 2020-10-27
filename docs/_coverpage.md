@@ -8,5 +8,5 @@
 
 [官方文档](https://developer.android.com/kotlin)
 
- [开始阅读](README.md)
+ [开始阅读](home.md)
 
